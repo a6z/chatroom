@@ -1,0 +1,72 @@
+.demo-avatar {
+  width: 100%;
+}
+
+/*section*/
+
+.section2 .mdl-card {
+  float: left;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.section2 {
+  height: 100vh;
+  display: none;
+}
+
+ /*icon*/
+i {
+  padding-left: 8px;
+}
+
+
+.mdl-card {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+#sign-info {
+  color: #118290;
+  font-size: 120%;
+}
+
+#user-pic {
+  text-align: center;
+  padding:10px;
+  margin-left:auto;
+  margin-right: auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+.chat-img {
+  width: 50px;
+}
+
+footer {
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 20px;
+  height: 200px;
+  overflow: auto;
+}
+ul li {
+    font-family: Roboto;
+    font-size: 120%;
+    font-weight: 300;
+    margin-bottom: 10px;
+    line-height: 24px;
+}
+ul li:last-child {
+    margin: 0px;
+}
+ul .example-chat-username {
+    margin-right: 10px;
+}
